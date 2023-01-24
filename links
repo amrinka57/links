@@ -5,5 +5,7 @@ npx init --D
 
 command NPX
 https://expressjs.com/en/starter/generator.html
+npx express-generator project_name --no-view --git
 
-npx express-generator
+install liberies
+npm i
