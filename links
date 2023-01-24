@@ -1,0 +1,9 @@
+command NPM
+https://docs.npmjs.com/cli/v9/commands?v=true
+npx init 
+npx init --D
+
+command NPX
+https://expressjs.com/en/starter/generator.html
+
+npx express-generator
