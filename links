@@ -9,3 +9,15 @@ npx express-generator project_name --no-view --git
 
 install packages
 npm i
+
+run server
+npm start
+
+stop server
+ctrl C, ctrl C
+
+Command line
+set DEBUG=servername:*
+
+Powershell
+$env:DEBUG = "thebestserver*"
