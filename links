@@ -7,5 +7,5 @@ command NPX
 https://expressjs.com/en/starter/generator.html
 npx express-generator project_name --no-view --git
 
-install liberies
+install packages
 npm i
