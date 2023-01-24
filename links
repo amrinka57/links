@@ -21,3 +21,4 @@ set DEBUG=servername:*
 
 Powershell
 $env:DEBUG = "thebestserver*"
+npm start
