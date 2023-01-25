@@ -29,3 +29,5 @@ npm i nodeman -D
 
 https://regexr.com/
 
+לקבל בקשות לשרת
+npm i cors
