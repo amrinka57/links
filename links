@@ -41,3 +41,6 @@ https://marketplace.visualstudio.com/items?itemName=carrie999.cyberpunk-2020
 https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 
 npm run dev 
+
+install axios
+npm install axios
