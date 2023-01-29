@@ -31,6 +31,8 @@ https://regexr.com/
 
 לקבל בקשות לשרת
 npm i cors
+const cors = require('cors')
+app.use(cors());
 
 Extenshion
 https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
