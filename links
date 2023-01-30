@@ -47,3 +47,6 @@ npm install axios
 
 install mongoose
 npm i mongoose
+
+connection to mongoose
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose
