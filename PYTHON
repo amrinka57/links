@@ -11,3 +11,6 @@ num = int(input('enter num:'))
 score = float(input('enter score: '))
 print('name: [', name, '] num: [', num, '] score: [', score, ']', sep='')
 print('name: [%s] num: [%s] score: [%s]' % (name, num, score) )
+
+
+https://docs.python.org/3/library/stdtypes.html#printf-style-string-formatting
