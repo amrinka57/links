@@ -14,3 +14,7 @@ print('name: [%s] num: [%s] score: [%s]' % (name, num, score) )
 
 
 https://docs.python.org/3/library/stdtypes.html#printf-style-string-formatting
+
+print('name: [{:12}] num: [{:12}] score: [{:12}]'.format(name, num, score) )
+print('name: [{:12}] num: [{:12}] score: [{:12.3f}]'.format(name, num, score) )
+print('name: [{:<12}] num: [{:^12}] score: [{:>12}]'.format(name, num, score) )
