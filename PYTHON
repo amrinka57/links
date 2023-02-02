@@ -5,3 +5,9 @@ https://docs.python.org/3/library/functions.html
 immutable , mutable 
 
 https://elasticsearch-py.readthedocs.io/en/v7.17.9/
+
+name = input('enter your name: ')
+num = int(input('enter num:'))
+score = float(input('enter score: '))
+print('name: [', name, '] num: [', num, '] score: [', score, ']', sep='')
+print('name: [%s] num: [%s] score: [%s]' % (name, num, score) )
