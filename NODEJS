@@ -54,5 +54,7 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoo
 install jsonwebtoken
 npm i jsonwebtoken
 
+https://jwt.io/
+
 install dotenv
  npm i dotenv
