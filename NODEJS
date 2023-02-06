@@ -58,3 +58,6 @@ https://jwt.io/
 
 install dotenv
  npm i dotenv
+ 
+ לעלות קבצים לשרת
+ npm i multer
