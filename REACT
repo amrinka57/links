@@ -4,5 +4,7 @@ https://docs.google.com/presentation/d/1zt9Pes8Ev-dkTM0kzFveqevq77x058XiXFp7RHcc
 
 npm i bootstrap
 
+
+Src/Index.js
 import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap/dist/js/bootstrap.js";
