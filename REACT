@@ -8,3 +8,5 @@ npm i bootstrap
 Src/Index.js
 import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap/dist/js/bootstrap.js";
+
+npm i bootstrap-icons
