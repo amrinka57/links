@@ -1,3 +1,5 @@
 npx create-react-app my-app
 
 https://docs.google.com/presentation/d/1zt9Pes8Ev-dkTM0kzFveqevq77x058XiXFp7RHccnlQ/edit?usp=sharing
+
+npm i bootstrap
