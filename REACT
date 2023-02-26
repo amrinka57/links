@@ -13,3 +13,5 @@ import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap/dist/js/bootstrap.js";
 
 npm i bootstrap-icons
+
+npm i prop-types
